@@ -14,7 +14,7 @@ class UspsClient extends ShipperClient
   generateRequest: (trk, clientIp= '127.0.0.1') ->
     @builder.buildObject
       'TrackFieldRequest':
-        '$': 'USERID': @userId
+        '$': 'USERID': 976REBU01169
         'Revision': '1'
         'ClientIp': clientIp
         'SourceId': 'shipit'
