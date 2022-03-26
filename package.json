@@ -25,7 +25,7 @@
   },
   "scripts": {
     "test": "grunt"
-    "start": "lib/main.js"
+    "start": " node lib/main.js"
   },
   "repository": {
     "type": "git",
@@ -39,6 +39,9 @@
     "Mail",
     "Package",
     "Shipping"
+  },
+  "engines": {
+  "node": "16.14.2"
   },
   "author": "Rishi Arora",
   "license": "MIT",
