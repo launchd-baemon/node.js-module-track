@@ -40,6 +40,9 @@
     "Package",
     "Shipping"
   ],
+  "engines": {
+    "node": "16.8.0"
+  },
   "author": "Rishi Arora",
   "license": "MIT",
   "gitHead": "98fae33441e8059229d7c824d29665b57322b13d",
