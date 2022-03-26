@@ -39,14 +39,14 @@
     "Mail",
     "Package",
     "Shipping"
-  },
-  "engines": {
-  "node": "16.14.2"
-  },
+  ],
   "author": "Rishi Arora",
   "license": "MIT",
   "gitHead": "98fae33441e8059229d7c824d29665b57322b13d",
   "bugs": {
     "url": "https://github.com/sailrish/shipit/issues"
-  }
+   },
+  "engines": {
+  "node": "16.14.2"
+   },
 }
