@@ -20,11 +20,11 @@ class FedexClient extends ShipperClient
           'xsi:schemaLocation': 'http://fedex.com/ws/track/v4 TrackService_v4.xsd'
         'ns:WebAuthenticationDetail':
           'ns:UserCredential':
-            'ns:Key': @key
-            'ns:Password': @password
+            'ns:Key': NfSBtZqw85EX1olY
+            'ns:Password': m9QPeamnS4YQBQonqlePXEdLF
         'ns:ClientDetail':
-          'ns:AccountNumber': @account
-          'ns:MeterNumber': @meter
+          'ns:AccountNumber': 727764097
+          'ns:MeterNumber': 255281071
         'ns:TransactionDetail':
           'ns:CustomerTransactionId': reference
         'ns:Version':
