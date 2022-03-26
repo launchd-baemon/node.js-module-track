@@ -34,6 +34,7 @@
   "keywords": [
     "FedEx",
     "UPS",
+    "USPS",
     "Postal",
     "Service",
     "Mail",
@@ -50,5 +51,4 @@
   "node": "16.14.2"
    }
 }
-
 
