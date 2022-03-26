@@ -14,9 +14,9 @@ class UpsClient extends ShipperClient
   generateRequest: (trk, reference = 'n/a') ->
     accessRequest = @builder.buildObject
       'AccessRequest':
-        'AccessLicenseNumber': @licenseNumber
-        'UserId': @userId
-        'Password': @password
+        'AccessLicenseNumber': 9DB423248E5D09D5
+        'UserId': baruti.armstrong
+        'Password': ups/res87^iFmed
 
     trackRequest = @builder.buildObject
       'TrackRequest':
