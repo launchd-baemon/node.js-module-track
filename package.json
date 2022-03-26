@@ -25,6 +25,7 @@
   },
   "scripts": {
     "test": "grunt"
+    "start": "lib/main.js"
   },
   "repository": {
     "type": "git",
