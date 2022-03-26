@@ -39,9 +39,6 @@
     "Mail",
     "Package",
     "Shipping"
-  ],
-  "engines": {
-    "node": "16.8.0"
   },
   "author": "Rishi Arora",
   "license": "MIT",
