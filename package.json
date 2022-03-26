@@ -2,7 +2,7 @@
   "name": "shipit",
   "version": "1.2.0",
   "description": "This module allows you to connect to many shipping carriers like UPS and FedEx and download tracking data for your packages in a common schema",
-  "main": "src/main.js",
+  "main": "lib/main.js",
   "directories": {
     "test": "test"
   },
@@ -25,9 +25,9 @@
   },
   "scripts": {
     "test": "grunt",
-    "start": "node src/main.js"
+    "start": "node lib/main.js"
   },
-  "repository": {
+  "source repository": {
     "type": "git",
     "url": "https://github.com/sailrish/shipit.git"
   },
@@ -38,6 +38,7 @@
     "Postal",
     "Service",
     "Mail",
+    "Fulfillment",
     "Package",
     "Shipping"
   ],
@@ -51,4 +52,3 @@
   "node": "16.14.2"
    }
 }
-
